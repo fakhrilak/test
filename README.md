@@ -1,4 +1,4 @@
 # PENCAK SILAT TOURNAMENT ADMINISTRATOR
--Clone this project
--Setup databases
-enjoy...
+  -Clone this project
+  -Setup databases
+  enjoy...
